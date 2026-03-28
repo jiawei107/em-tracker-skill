@@ -1,0 +1,10 @@
+# EM Tracker 依赖包
+# 安装命令: pip install -r requirements.txt
+
+requests>=2.25.0
+pandas>=1.3.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+xlsxwriter>=3.0.0
+colorama>=0.4.4
+serverchan-sdk>=0.0.1
